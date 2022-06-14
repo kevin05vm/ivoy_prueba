@@ -1,6 +1,6 @@
 # ivoy_prueba
 
-A new Flutter project.
+Fue un buen reto, ya que no habia trabajado con Graphql en Flutter.
 
 ## Getting Started
 
